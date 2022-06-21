@@ -1,0 +1,15 @@
+#calculator-wrapper {
+    background-color:azure;
+    width: 50%;
+    height: 500px;
+}
+
+#top-window {
+    background-color: lightslategray;
+    height: 30%;
+}
+
+#bottom-keys {
+    background-color: black;
+    height: 70%;
+}
