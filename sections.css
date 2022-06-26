@@ -1,15 +1,26 @@
 #calculator-wrapper {
-    background-color:azure;
-    width: 50%;
-    height: 500px;
+    background-color: lightblue;
+    width: 25%;
+    height: 600px;
+    padding: 35px 50px 50px 40px;
+    border-radius: 15px;
+    box-shadow: 18px 18px rgb(28, 65, 88);
 }
 
 #top-window {
     background-color: lightslategray;
-    height: 30%;
+    height: 25%;
+    width: 100%;
+    margin-bottom: 10px;
 }
 
 #bottom-keys {
-    background-color: black;
+    background-color: lightcoral;
     height: 70%;
+    width: 100%;
+    flex: 20%;
+}
+
+.number {
+    color: rgb(6, 34, 43);
 }
